@@ -21,4 +21,4 @@
 gcloud functions deploy example-scala-function --entry-point cloudfunctions.ExampleFunction --runtime java11 --trigger-http --allow-unauthenticated
 ```
 
-For more deployment info, see (docs)[https://cloud.google.com/functions/docs/deploying]
+For more deployment info, see [docs](https://cloud.google.com/functions/docs/deploying)
